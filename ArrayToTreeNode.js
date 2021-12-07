@@ -1,3 +1,4 @@
+//// from array to treenode object i use for init data to TreeSelect in AntD
 let data = [
     {
         "name": "group 1",
